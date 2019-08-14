@@ -1,5 +1,5 @@
 # nodejs-diceroll
-Simple client/server to roll a dice.
+Simple client/server to roll a dice using graphql.
 
 # Start the dice server
 `npm i`
